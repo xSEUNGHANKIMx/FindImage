@@ -1,0 +1,23 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.edwinmperazaduran.gridimagesearch.ViewImageActivity">
+
+    <ImageView
+        android:id="@id/viewImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/viewImageTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="#80202020"
+        android:textColor="@android:color/white"
+        android:padding="5dp"
+        android:maxLines="1" />
+</FrameLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image Finder</string>
+    <string name="hint_search">Find Image</string>
+    <string name="find_btn">Find</string>
+    <string name="not_found">Search not found</string>
+    <string name="error_invalid_data">Invalid data received</string>
+    <string name="error_no_input">Input Keyword</string>
+    <string name="error_no_internet_connection">No Internet Connection</string>
+    <string name="error_service_unavailable">Service is unavailable.</string>
+</resources>

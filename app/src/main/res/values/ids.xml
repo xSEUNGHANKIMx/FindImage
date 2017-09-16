@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item name="searchBtn" type="id"/>
+    <item name="edittextFind" type="id"/>
+    <item name="gridView" type="id"/>
+    <item name="imageItemView" type="id"/>
+    <item name="imageItemTitle" type="id"/>
+    <item name="viewImageView" type="id"/>
+    <item name="viewImageTitle" type="id"/>
+    <item name="title" type="id"/>
+    <item name="badge" type="id"/>
+    <item name="separator" type="id"/>
+    <item name="name" type="id"/>
+    <item name="number" type="id"/>
+    <item name="shortcut" type="id"/>
+    <item name="set_name" type="id"/>
+    <item name="camera" type="id"/>
+    <item name="gallery" type="id"/>
+    <item name="delete" type="id"/>
+    <item name="checkbox_auto_addfriends" type="id"/>
+    <item name="checkbox_sync_contact" type="id"/>
+    <item name="msg_send_fail_btn" type="id"/>
+    <item name="edittext_container" type="id"/>
+    <item name="mango_background_color_0" type="id"/>
+    <item name="mango_background_color_1" type="id"/>
+    <item name="mango_background_color_2" type="id"/>
+    <item name="mango_background_color_3" type="id"/>
+    <item name="mango_background_color_4" type="id"/>
+    <item name="mango_background_color_5" type="id"/>
+    <item name="mango_background_color_6" type="id"/>
+    <item name="mango_background_color_7" type="id"/>
+    <item name="mango_background_color_8" type="id"/>
+    <item name="mango_background_color_9" type="id"/>
+    <item name="mango_background_color_10" type="id"/>
+    <item name="mango_background_color_11" type="id"/>
+    <item name="mango_keypad_1" type="id"/>
+    <item name="mango_keypad_2" type="id"/>
+    <item name="mango_keypad_3" type="id"/>
+    <item name="mango_keypad_4" type="id"/>
+    <item name="mango_keypad_5" type="id"/>
+    <item name="mango_keypad_6" type="id"/>
+    <item name="mango_keypad_7" type="id"/>
+    <item name="mango_keypad_8" type="id"/>
+    <item name="mango_keypad_9" type="id"/>
+    <item name="mango_keypad_n" type="id"/>
+    <item name="mango_keypad_0" type="id"/>
+    <item name="mango_keypad_back" type="id"/>
+    <item name="mango_setting_sub_layout_1" type="id"/>
+    <item name="mango_setting_sub_layout_2" type="id"/>
+    <item name="mango_setting_sub_layout_3" type="id"/>
+    <item name="mango_setting_sub_layout_4" type="id"/>
+    <item name="mango_setting_sub_layout_5" type="id"/>
+    <item name="shake_startview" type="id"/>
+    <item name="mango_wave_viewanimator" type="id"/>
+    <item name="mango_wave_margin_size" type="id"/>
+    <item name="mango_wave_left_phone_image" type="id"/>
+    <item name="mango_wave_right_phone_image" type="id"/>
+    <item name="mango_wave_message" type="id"/>
+    <item name="mango_wave_notice" type="id"/>
+    <item name="password_code_1" type="id"/>
+    <item name="password_code_2" type="id"/>
+
+
+</resources>
