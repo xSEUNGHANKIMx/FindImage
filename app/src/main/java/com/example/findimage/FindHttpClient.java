@@ -11,8 +11,8 @@ import java.net.URLEncoder;
 
 public class FindHttpClient {
     private static final String URL = "https://www.googleapis.com/customsearch/v1?";
-    private static final String APIKEY = /*"AIzaSyBUYh-H3NXdbYduvTFSO6s346xJPIUwAwo";*/"AIzaSyC9qyat9G0tlHrmg8s_dAfT1q4irjIZTlE";
-    private static final String CXKEY = /*"012906612677898706264:pejb1jkcbfw";*/"018166152475396321462:neztg-w1huk";
+    private static final String APIKEY = "AIzaSyBUYh-H3NXdbYduvTFSO6s346xJPIUwAwo";
+    private static final String CXKEY = "012906612677898706264:pejb1jkcbfw";
     private AsyncHttpClient httpClient;
 
     public FindHttpClient(){
